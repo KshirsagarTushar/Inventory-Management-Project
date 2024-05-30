@@ -26,10 +26,10 @@ The study uses and compares different machine learning algorithms for predictive
 - Exploratory Data Analysis (EDA):
   Conducted an exploratory data analysis to gain initial insights into the dataset's characteristics. Generated summary statistics, visualized data through bar plots, pie chart, tree map, word cloud, and created correlation plot to identify potential correlations and trends.
 
-- Descriptive Statistical Analysis:
+- Descriptive Statistical Model:
   Performed a detailed descriptive statistical analysis to further understand the dataset. Calculated central tendency measures (mean, median), measures of dispersion (standard deviation, range), and correlation coefficients. Summarize findings in tables and charts for clarity.
 
-- Diagnostic Statistical Analysis:
+- Diagnostic Statistical Model:
   Diagnosed potential issues in the dataset that might affect subsequent analyses. Used correlation plot matrices to detect multicollinearity among variables.
 
 - Statistical Testing:
@@ -45,7 +45,7 @@ Trained and evaluated multiple predictive models, assessing their performance us
 - Best-Fitted Model Selection:
   Selected the best-fitted model based on the model comparison results. Chose the model that demonstrates the highest predictive accuracy and aligns with the project's goals.
 
-- Prescriptive Statistical Analysis:
+- Prescriptive Statistical Model:
   Utilized the selected predictive model to conduct prescriptive analysis. Generated actionable recommendations and strategies based on the model's predictions. These recommendations aim to optimize operational efficiency, enhance customer satisfaction, or drive revenue growth for the insurance company.
 
 - Documentation and Reporting:
