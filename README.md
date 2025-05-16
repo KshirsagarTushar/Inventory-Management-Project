@@ -1,4 +1,4 @@
-# Predictive and Prescriptive Statistical Models for Inventory Management in Health Care
+# Predictive and Prescriptive Statistical Models for Inventory Management in Health Care (Updated 2024)
 The project aims to develop and implement predictive and prescriptive statistical models to optimize inventory management in healthcare settings. Efficient inventory management in healthcare is crucial to ensure the availability of necessary medical supplies and medications while minimizing costs and waste. The project focuses on using advanced analytics to prescribe optimal inventory policies.
 
 # Sections
